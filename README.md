@@ -1,1 +1,1 @@
-# This project is about showing my projects on generative AI
+# This project is about showing my learning journey on generative AI
